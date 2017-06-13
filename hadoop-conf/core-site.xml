@@ -33,6 +33,7 @@
             org.apache.hadoop.io.compress.SnappyCodec</value>
     </property>
 
+    <!--
     <property>
         <name>hadoop.proxyuser.1100505.hosts</name>
         <value>*</value>
@@ -41,6 +42,6 @@
         <name>hadoop.proxyuser.1100505.groups</name>
         <value>*</value>
     </property>
-
+    -->
 
 </configuration>
